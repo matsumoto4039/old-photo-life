@@ -1,0 +1,23 @@
+{
+  "module": "old-photo-life",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "animate": {
+      "enabled": true
+    },
+    "restore": {
+      "enabled": true
+    },
+    "colorize": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
